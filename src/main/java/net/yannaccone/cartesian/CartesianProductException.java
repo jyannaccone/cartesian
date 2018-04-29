@@ -14,7 +14,7 @@
  * License for the specific language governing permissions and limitations
  * under the License.
  */
-package net.yannaccone.commons.cartesian;
+package net.yannaccone.cartesian;
 
 /**
  * An exception indicating that a parameter passed to the throwing method was

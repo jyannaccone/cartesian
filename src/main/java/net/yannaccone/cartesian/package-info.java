@@ -17,4 +17,4 @@
 /**
  * Utilities to compute Cartesian products of collections.
  */
-package net.yannaccone.commons.cartesian;
+package net.yannaccone.cartesian;
